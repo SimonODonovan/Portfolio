@@ -2403,7 +2403,9 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 100%;
+				max-width: 70%;
+				margin: auto;
+				border-radius: 50px;
 			}
 
 /* List */
@@ -3083,6 +3085,12 @@ input, select, textarea {
 				opacity: 1;
 			}
 
+			#header .inner img { 
+				max-width: 10%;
+				border-radius: 1000px;
+				border: 1px solid lightseagreen;
+			}
+
 		#header:after {
 			-moz-transition: opacity 1s ease;
 			-webkit-transition: opacity 1s ease;
@@ -3354,6 +3362,10 @@ input, select, textarea {
 			#header {
 				padding: 8em 3em 8em 3em ;
 			}
+
+				#header .inner img { 
+					max-width: 20%;
+				}
 
 		/* Footer */
 

@@ -39,6 +39,7 @@ moreButton.click(function (e) {
 	if ( contactIcons.first().is( ":hidden" ) ) {
 		contactIcons.slideDown( "slow" );
 		moreButton.text("LESS");
+		document.getElementById("contactIcons").scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
 	} else {
 		contactIcons.slideUp( "slow" );
 		moreButton. text("REACH OUT");
