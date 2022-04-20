@@ -2,7 +2,7 @@
 
 **Link to portfolio:** https://sodonovandev.netlify.app/
 
-![img](https://raw.githubusercontent.com/SimonODonovan/Portfolio/master/images/portfolioScreenshot.png)
+![alt tag](https://raw.githubusercontent.com/SimonODonovan/Portfolio/master/images/portfolioScreenshot.png)
 
 Photon by HTML5 UP
 html5up.net | @ajlkn
