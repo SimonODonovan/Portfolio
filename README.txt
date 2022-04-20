@@ -2,7 +2,8 @@
 
 **Link to portfolio:** https://sodonovandev.netlify.app/
 
-![screenshot](https://github.com/SimonODonovan/Portfolio/blob/master/images/portfolioScreenshot.png?raw=true)
+![alt-text](https://github.com/SimonODonovan/Portfolio/blob/master/images/portfolioScreenshot.png?raw=true)
+![alt tag](http://placecorgi.com/1200/650)
 
 images/portfolioScreenshot.png)
 
