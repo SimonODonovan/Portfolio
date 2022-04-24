@@ -3126,6 +3126,14 @@ input, select, textarea {
 		opacity: 1;
 	}
 
+/* About Me */
+	@media screen and (min-width: 768px) {
+
+	}
+	#cvButton {
+		width: 100%;
+	}
+
 /* Contact Me */
 	#contactMe label {
 		margin-top: 10px;
@@ -3389,6 +3397,10 @@ input, select, textarea {
 			#four {
 				text-align: center;
 			}
+
+				#four #cvButton {
+					width: 70%;
+				}
 	}
 
 /* Small */
