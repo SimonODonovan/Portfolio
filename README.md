@@ -1,6 +1,6 @@
 # Portfolio
 
-**Link to portfolio:** https://simonodonovandev.netlify.app/
+**Link to portfolio:** https://simonodonovan.netlify.app/
 
 ![screenshot](https://github.com/SimonODonovan/Portfolio/blob/master/images/portfolioScreenshot.png?raw=true)
 
